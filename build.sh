@@ -1,1 +1,1 @@
-thrift --gen go ./src/*.thrift
+thrift --gen go --gen js:ts ./src/*.thrift
